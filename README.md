@@ -20,3 +20,9 @@ Welcome to **Codes Buster** — your ultimate hub for learning tech, web develop
 /snippets       # Short, reusable code examples for various programming languages
 /challenges     # Coding problems and solutions for interview prep
 /resources      # Guides, cheat sheets, and tech-related content
+
+## 🔥 Follow Codes Buster
+Stay connected with us for regular updates, tutorials, and motivational content:
+
+- **YouTube**: Codes Buster 
+- **LinkedIn**: Codes Buster

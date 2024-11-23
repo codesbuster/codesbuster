@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm your Codes Buster</h1>
-<h3 align="center">🚀 Welcome to Codes Buster - Your Tech & Web Dev Hub! 🌐💻 Explore coding and web development brilliance with Codes Buster! 💡 Crack the latest codes, master web technologies, and elevate your coding skills. Stay ahead with tech tutorials, tips, and updates. Join our coding and web development community. Subscribe now for your daily dose of innovation!</h3>
+<h3 align="center">🚀 Welcome to Codes Buster - Your Tech & Web Dev Hub! 🌐💻 </h3>
 
 - 🔭 I’m currently a **content creator**
 
